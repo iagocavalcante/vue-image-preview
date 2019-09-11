@@ -1,0 +1,22 @@
+{
+  "name": "vue-image-preview",
+  "version": "0.1.0",
+  "description": "Componente para visualização e corte de imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagocavalcante/vue-image-preview.git"
+  },
+  "author": "Iago Cavalcante <iagoangelimc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagocavalcante/vue-image-preview/issues"
+  },
+  "homepage": "https://github.com/iagocavalcante/vue-image-preview#readme",
+  "dependencies": {
+    "js-cropper": "^1.0.1"
+  }
+}
